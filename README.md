@@ -49,6 +49,7 @@ We're using Zenhub, an agile project management tool for github repositories. Do
  * Jisc - Issues that relate to the Jisc grant.
  * Maintenance - Issues related to ongoing maintenance (not active development). 
  * Ops - Project operations related issues.
+ * Priority - Issues that are a high priority for the current or next milestone. 
  * Target - Our target for key metrics in that milestone.
  * Tech - Issues related to the technology team. 
 
