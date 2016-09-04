@@ -8,3 +8,8 @@ Where we manage all the things for the Open Access Button.
 - [ ] FYI that we're using Zenhub
 - [ ] How to's / rules / how to maintain guide: Everything needs labeling, processes once a week. 
 - [ ] Open-ness. What we'll put up, and what we won't. We're Open by Default, but doens't mean everything is. 
+
+### Coming soon to a repo near you
+
+- [ ] Contributing.md (@?)
+- [ ] Onboarding / team guide (@natalia)
