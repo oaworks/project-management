@@ -11,10 +11,10 @@
 
 *Who is involved in this project? Use the [RACI model](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) to identify the roles*
 
-* Responsible
- * @JosephMcarthur
-* Accountable
+* Responsible (who's doing the work)
  * 
+* Accountable (only one)
+ * @JosephMcarthur
 * Consulted
  * 
 * Informed
