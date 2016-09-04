@@ -10,6 +10,7 @@ Where we manage all the things for the Open Access Button.
 - [ ] Open-ness. What we'll put up, and what we won't. We're Open by Default, but doens't mean everything is. 
 - [ ] Repo description
 - [ ] Link to backend for code etc. 
+- [ ] Use of this vs todoist
 
 ### Coming soon to a repo near you
 
