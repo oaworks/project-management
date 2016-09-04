@@ -1,8 +1,3 @@
-# Project Management
-Where we manage all the things for the Open Access Button. 
-
-<a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
-
 ### To do 
 
 - [X] Translate labels, milestones, epics into what those actually mean.
@@ -18,19 +13,30 @@ Where we manage all the things for the Open Access Button.
 - [ ] Contributing.md (@?)
 - [ ] Onboarding / team guide (@natalia)
 
+# Project Management
+
 ### Description
 
-This repo is to track the progress of projects/initiatives/tasks for the Open Access Button. 
+This repo is to track the progress of projects/initiatives/tasks for the Open Access Button. Code issues can be found here: https://github.com/OAButton/backend
+
+We're using Zenhub, an agile project management tool for github repositories. Download it if you don't already have it.
+ *https://www.zenhub.com/
 
 ### How to
 
 #### Rules
-* Everything needs labeling
+* Issue care. A properly labeled issue has:
+ * A label for the teams involved, who the work is for, and if it's maintance vs development
+ * A Milestone
+ * An epic
+ * A clear description
+ * An assignment
+ * An estimation
 * Maintain the repo by accurately labeling each new issue and placing it under an epic if applicable and including it in a milestone.
-* 
 
-#### Terms to know
+#### How to interpret this repository
 
+* Assignments - the person / people responsible for the work
 * Epics - The overarching goal/large task where issues fall under.
 * Milestone - What we are planning to do/achieve within a time period (given month for this repo). 
 * Labels - Description for what area the issue falls under. Issues should have multiple labels when applicable.   
@@ -43,10 +49,6 @@ This repo is to track the progress of projects/initiatives/tasks for the Open Ac
  * Ops - Project operations related issues.
  * Target - Our target for key metrics in that milestone.
  * Tech - Issues related to the technology team. 
-
-#### Zenhub
-We're using Zenhub, an agile project management tool for github repositories. Download it if you don't already have it.
- *https://www.zenhub.com/
 
 ### Teams
 * Operations
@@ -64,6 +66,8 @@ We're using Zenhub, an agile project management tool for github repositories. Do
  * Martin
  * Jess
  
+### Our Teams Skills
+
 | Name/Skill | OAB Lore | Backend Dev | Frontend Dev | Bug fixing | Github use | Agile / PM'in | Copywriting | Proofreading | User Testing | Design | OAB Strategy Knowledge | Issue Expertise | Fundraising | Social |
 |------------|----------|-------------|--------------|------------|------------|---------------|-------------|--------------|--------------|--------|------------------------|-----------------|-------------|--------|
 | Joe        | 4        | 0           | 1            | 1          | 4          | 3             | 2           | 1            | 2            | 1      | 4                      | 4               | 3           |        |
@@ -78,9 +82,6 @@ We're using Zenhub, an agile project management tool for github repositories. Do
 | Martin     | 1        | 0           | 0            | 2          | 3          | 2             |             |              |              |        |                        |                 |             |        |
 | Penny      | 1        | 0           | 0            | 0          | 1          | ?             |             |              |              |        |                        |                 |             |        |
 
-### Backend
+### Our approach to Openness
 
-*https://github.com/OAButton/backend
-The repo for code and to discuss backend work. 
-
-### Open-ness
+We're working to make the day to day running of the project as open as possible, and make it easy for people to make contrbutions and critics of our work. However, we may obsure names or projects here if they're sensitive. 
