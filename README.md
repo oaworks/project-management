@@ -6,9 +6,10 @@
 - [X] What teams we have & what they do
 - [X] FYI that we're using Zenhub
 - [ ] How to's / rules / how to maintain guide: Everything needs labeling, processes once a week. 
-- [ ] Open-ness. What we'll put up, and what we won't. We're Open by Default, but doesn't mean everything is. 
+- [x] Open-ness. What we'll put up, and what we won't. We're Open by Default, but doesn't mean everything is. 
 - [X] Repo description
-- [X] Link to backend for code etc. 
+- [X] Link to backend for code etc.
+- [x] Todoist
 
 ### Coming soon to a repo near you
 
@@ -52,6 +53,11 @@ We're using Zenhub, an agile project management tool for github repositories. Do
  * Priority - Issues that are a high priority for the current or next milestone. 
  * Target - Our target for key metrics in that milestone.
  * Tech - Issues related to the technology team. 
+
+#### Github vs Todoist
+
+* Small things go on Todoist - e.g "Email Joe a file on Tuesday". These things will often have no use being seen externally. 
+* Big things go on Github - e.g every issue. These things will often be useful to show openly. 
 
 ### Teams
 * Operations
