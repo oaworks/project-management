@@ -1,6 +1,6 @@
 <a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
-### To do 
+## To do 
 
 - [X] Translate labels, milestones, epics into what those actually mean.
 - [X] What teams we have & what they do
@@ -11,29 +11,29 @@
 - [X] Link to backend for code etc.
 - [x] Todoist
 
-### Coming soon to a repo near you
+## Coming soon to a repo near you
 
 - [ ] Contributing.md (@?)
 - [ ] Onboarding / team guide (@natalia)
 
 # Project Management
 
-### Hotlinks
+## Hotlinks
 
 * Roadmap: https://github.com/OAButton/project-management/milestones
 * Board: https://github.com/OAButton/project-management/milestones#boards?repos=67333835
 * Pulse: https://github.com/OAButton/project-management/pulse
 
-### Description
+## Description
 
 This repo is to track the progress of projects/initiatives/tasks for the Open Access Button. Code issues can be found here: https://github.com/OAButton/backend
 
 We're using Zenhub, an agile project management tool for github repositories. Download it if you don't already have it.
  *https://www.zenhub.com/
 
-### How to
+## How to
 
-#### Rules
+### Rules
 * Issue care. A properly labeled issue has:
  * A label for the teams involved, who the work is for, and if it's maintance vs development
  * A Milestone
@@ -43,7 +43,7 @@ We're using Zenhub, an agile project management tool for github repositories. Do
  * An estimation
 * Maintain the repo by accurately labeling each new issue and placing it under an epic if applicable and including it in a milestone.
 
-#### How to interpret this repository
+### How to interpret this repository
 
 * Assignments - the person / people responsible for the work
 * Epics - The overarching goal/large task where issues fall under.
@@ -60,28 +60,32 @@ We're using Zenhub, an agile project management tool for github repositories. Do
  * Target - Our target for key metrics in that milestone.
  * Tech - Issues related to the technology team. 
 
-#### Github vs Todoist
+### Github vs Todoist
 
 * Small things go on Todoist - e.g "Email Joe a file on Tuesday". These things will often have no use being seen externally. 
 * Big things go on Github - e.g every issue. These things will often be useful to show openly. 
 
-### Teams
+## Teams
 * Operations
- * Joe
+ * Joe (1/2)
  * Georgina
- * Megan
+ * Natalia (1/3)
 * Development
  * Mark
- * Megan
+ * Megan (3/4)
+ * Natalia (1/3)
+ * Joe (1/2)
 * Communications and Advocacy
-* Chealsye
+ * Chealsye
  * Sarah
+ * Natalia (1/3)
+ * Megan (1/4)
 * Extended family
  * Penny
  * Martin
  * Jess
  
-### Our Teams Skills
+## Our Teams Skills
 
 | Name/Skill | OAB Lore | Backend Dev | Frontend Dev | Bug fixing | Github use | Agile / PM'in | Copywriting | Proofreading | User Testing | Design | OAB Strategy Knowledge | Issue Expertise | Fundraising | Social |
 |------------|----------|-------------|--------------|------------|------------|---------------|-------------|--------------|--------------|--------|------------------------|-----------------|-------------|--------|
@@ -97,6 +101,17 @@ We're using Zenhub, an agile project management tool for github repositories. Do
 | Martin     | 1        | 0           | 0            | 2          | 3          | 2             |             |              |              |        |                        |                 |             |        |
 | Penny      | 1        | 0           | 0            | 0          | 1          | ?             |             |              |              |        |                        |                 |             |        |
 
-### Our approach to Openness
+## Our Teams Capacity
+
+Total: Official hours a month:
+
+* Joe: 32
+* Mark: 64
+* Megan: 48
+* Chealsye: 32
+* Georgina: 16
+* Natalia: 16-32
+
+## Our approach to Openness
 
 We're working to make the day to day running of the project as open as possible, and make it easy for people to make contrbutions and critics of our work. However, we may obsure names or projects here if they're sensitive. 
