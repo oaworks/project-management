@@ -111,9 +111,9 @@ Individuals
 * Natalia: 16-32
 
 Teams
-* Operations hours each month: 26.50
-* Development hours each month: 126.5
-* Communications and Advocacy hours each month: 54.5+
+* Operations: 26.50
+* Development: 126.5
+* Communications and Advocacy: 54.5+
 
 
 ## Our approach to Openness
