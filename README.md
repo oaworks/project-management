@@ -68,7 +68,6 @@ We're using Zenhub, an agile project management tool for github repositories. Do
 ## Teams
 * Operations
  * Joe (1/2)
- * Georgina
  * Natalia (1/3)
 * Development
  * Mark
@@ -90,7 +89,6 @@ We're using Zenhub, an agile project management tool for github repositories. Do
 | Name/Skill | OAB Lore | Backend Dev | Frontend Dev | Bug fixing | Github use | Agile / PM'in | Copywriting | Proofreading | User Testing | Design | OAB Strategy Knowledge | Issue Expertise | Fundraising | Social |
 |------------|----------|-------------|--------------|------------|------------|---------------|-------------|--------------|--------------|--------|------------------------|-----------------|-------------|--------|
 | Joe        | 4        | 0           | 1            | 1          | 4          | 3             | 2           | 1            | 2            | 1      | 4                      | 4               | 3           |        |
-| Georgina   | 4        | 0           | 0            | 0          | 1          | 3             | 3           |              |              |        |                        |                 |             |        |
 | Chealsye   | 2        | 0           | 0            | 0          | 1          | 1             |             |              |              |        |                        |                 |             |        |
 | Sarah      | 2        | 0           | 0            | 0          | 1          | 1             |             |              |              |        |                        |                 |             |        |
 | Megan      | 1        | 0           | 0            | 0          | 1          | 1             |             |              |              |        |                        |                 |             |        |
@@ -109,8 +107,12 @@ Total: Official hours a month:
 * Mark: 64
 * Megan: 48
 * Chealsye: 32
-* Georgina: 16
 * Natalia: 16-32
+
+* Operations hours each month: 26.50
+* Development hours each month: 126.5
+* Communications and Advocacy hours each month: 54.5+
+
 
 ## Our approach to Openness
 
