@@ -101,14 +101,16 @@ We're using Zenhub, an agile project management tool for github repositories. Do
 
 ## Our Teams Capacity
 
-Total: Official hours a month:
+Official hours a month:
 
+Individuals
 * Joe: 32
 * Mark: 64
 * Megan: 48
 * Chealsye: 32
 * Natalia: 16-32
 
+Teams
 * Operations hours each month: 26.50
 * Development hours each month: 126.5
 * Communications and Advocacy hours each month: 54.5+
